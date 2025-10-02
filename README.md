@@ -1,6 +1,6 @@
 #  About me: 
 
- |  Software Developer
+ |  Software Developer  |  IT Support Specialist
 
  |  How to reach me: Email - imsntiago@gmail.com
 
