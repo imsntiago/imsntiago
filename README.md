@@ -22,9 +22,11 @@
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Sometimes%20it%20is%20the%20people%20who%20no-one%20imagines%20anything%20of%20who%20do%20the%20things%20that%20no-one%20can%20imagine&author=Alan%20Turing" alt="Readme Quote">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20fear%20of%20the%20LORD%20is%20the%20beginning%20of%20wisdom%2C%20and%20knowledge%20of%20the%20Holy%20One%20is%20understanding&author=Provebs%209-10" alt="Readme Quote">
   </a>
 </p>
+
+
 
 
 
