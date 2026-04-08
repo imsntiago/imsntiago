@@ -1,29 +1,35 @@
-#  About me: 
+ ## About Me
 
- |  Software Developer  |  IT Support Specialist
+Junior Data Analyst in training with a background in IT infrastructure and software development.
 
- |  How to reach me: Email - imsntiago@gmail.com
+I have experience working with data validation, data consistency, and process tracking in real-world environments.
+
+Currently building projects using:
+- SQL
+- Python
+- Excel
+- Power BI
+
+Focused on transforming data into actionable insights.
 
 
 # Tech Stack:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+
 
 
 # Random Quote:
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20fear%20of%20the%20LORD%20is%20the%20beginning%20of%20wisdom%2C%20and%20knowledge%20of%20the%20Holy%20One%20is%20understanding&author=Provebs%209-10" alt="Readme Quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Without%20data%2C%20you%27re%20just%20another%20person%20with%20an%20opinion&author=W.%20Edwards%20Deming" alt="Readme Quote">
   </a>
 </p>
 
