@@ -1,6 +1,6 @@
  ## About Me
 
-Junior Data Analyst in training with a background in IT infrastructure and software development.
+Data Analyst in training with a background in IT infrastructure and software development.
 
 I have experience working with data validation, data consistency, and process tracking in real-world environments.
 
@@ -9,6 +9,7 @@ Currently building projects using:
 - Python
 - Excel
 - Power BI
+- Databricks
 
 Focused on transforming data into actionable insights.
 
@@ -22,6 +23,7 @@ Focused on transforming data into actionable insights.
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 
 
